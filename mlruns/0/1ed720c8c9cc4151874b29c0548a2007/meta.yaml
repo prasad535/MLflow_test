@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/MLflow_test/mlruns/0/1ed720c8c9cc4151874b29c0548a2007/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ed720c8c9cc4151874b29c0548a2007
+run_name: thundering-crow-327
+run_uuid: 1ed720c8c9cc4151874b29c0548a2007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704488837309
+status: 1
+tags: []
+user_id: abc
